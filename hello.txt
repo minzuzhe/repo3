@@ -7,3 +7,6 @@ qqqqqqqqq
 wwwwwwwwww
 zzzzzzzzzz
 xxxxxxxxxx
+ssssssss
+add some content to hello.text
+
